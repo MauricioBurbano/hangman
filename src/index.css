@@ -1,0 +1,15 @@
+.hidden {
+    display: none;
+}
+
+img {
+    width: 400px;
+}
+
+#word {
+    margin: 15px;
+}
+
+.transparent {
+    opacity: 0.5;
+}
